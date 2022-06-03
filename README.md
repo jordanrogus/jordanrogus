@@ -2,4 +2,4 @@
 - 👀 I’m interested in building interesting apps
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any cool ServiceNow ideas
-- 📫 How to reach me ... jordanrogus@gmail.com
+- 📫 How to reach me: jordanrogus@gmail.com
